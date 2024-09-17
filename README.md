@@ -6,7 +6,8 @@ First year UCI-ICS-student needs to know
 Students' record: [WebReg](https://www.reg.uci.edu/)
 
 ### Planner
-- Creating an [Academic plan ](https://ics.uci.edu/academics/undergraduate-academic-advising/creating-an-academic-plan/)
+- Creating an [Academic plan ](https://ics.uci.edu/academics/undergraduate-academic-advising/creating-an-academic-plan/) instruction.
+- Some websites help to create your unique schedule based on the courses you register.
 1. [Zotistic.com](https://zotistics.com/)
 2. [Antalmanac.com](Antalmanac.com)
 3. [Pathway](https://www.anteaterpathway.com/) --> quarters/years planning
