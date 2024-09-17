@@ -36,3 +36,6 @@ ZOTFinder
 
 Link to [Canvas](https://canvas.eee.uci.edu/)
 
+
+
+*Created by Y Nhi Tran - student at UCI - ICS - Year 2024-2026*
