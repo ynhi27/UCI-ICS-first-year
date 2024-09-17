@@ -1,7 +1,7 @@
 # UCI-ICS-first-year
 First year UCI-ICS-student needs to know
 
-### Quarterly Academic Calendar
+### Quarterly Academic Calendar 2024 - 2025
 
 [(Click here to see the calendar under pdf file)](https://reg.uci.edu/calendars/quarterly/2024-2025/calendar24-25.pdf)
 
