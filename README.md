@@ -27,3 +27,8 @@ Duo Mobile
 AtriumCampus  
 CampusGroup  
 ZOTFinder
+
+### Canvas
+
+Link to [Canvas](https://canvas.eee.uci.edu/)
+
