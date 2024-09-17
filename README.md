@@ -25,6 +25,10 @@ Students' record: [WebReg](https://www.reg.uci.edu/)
 
 [Link to website](https://ics.uci.edu/student-experience/clubs-organizations/)
 
+### Eduroam profile installers
+
+Follow the [link](https://eduroam.oit.uci.edu/)
+
 ### Apps
 
 Duo Mobile  
@@ -35,6 +39,9 @@ ZOTFinder
 ### Canvas
 
 Link to [Canvas](https://canvas.eee.uci.edu/)
+
+
+
 
 
 
