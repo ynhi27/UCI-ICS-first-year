@@ -21,6 +21,10 @@ Students' record: [WebReg](https://www.reg.uci.edu/)
 1. View and manage your financial aid: [ZotAid](https://www.ofas.uci.edu/login.php)
 2. Pay your fees: [Zot Account](https://zotaccount.uci.edu/login.jsp)
 
+### Clubs and Organizations
+
+[Link to website](https://ics.uci.edu/student-experience/clubs-organizations/)
+
 ### Apps
 
 Duo Mobile  
