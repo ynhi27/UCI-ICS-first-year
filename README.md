@@ -64,4 +64,8 @@ Link to [Canvas](https://canvas.eee.uci.edu/)
 
 [Zot! Portal](https://portal.uci.edu/)
 
+### Handshake at UCI
+
+[Handshake](https://career.uci.edu/handshake/)
+
 *Created by Y Nhi Tran - student at UCI - ICS - Year 2024-2026*
