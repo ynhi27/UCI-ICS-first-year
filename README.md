@@ -1,6 +1,10 @@
 # UCI-ICS-first-year
 First year UCI-ICS-student needs to know
 
+## Financial Aid Notice delay 2024
+
+[Notice](https://uci.edu/status/fin-aid.php)
+
 ### Our school website
 
 [ICS](https://ics.uci.edu/)
@@ -8,6 +12,10 @@ First year UCI-ICS-student needs to know
 ### Quarterly Academic Calendar 2024 - 2025
 
 [(Click here to see the calendar under pdf file)](https://reg.uci.edu/calendars/quarterly/2024-2025/calendar24-25.pdf)
+
+### Admission apply
+
+Review for those who want to look back the [Admission Decision](https://apply.admissions.uci.edu/portal/applicantstatus?tab=home)
 
 ### University Registrar
 
@@ -44,9 +52,16 @@ ZOTFinder
 
 Link to [Canvas](https://canvas.eee.uci.edu/)
 
+### Housing
 
+[Student Housing](https://housing.uci.edu/start/)
 
+### Parking permit
 
+[Student parking permit](https://parking.uci.edu/permits/student/)
 
+### Zot Portal
+
+[Zot! Portal](https://portal.uci.edu/)
 
 *Created by Y Nhi Tran - student at UCI - ICS - Year 2024-2026*
