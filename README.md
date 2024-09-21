@@ -60,6 +60,10 @@ Link to [Canvas](https://canvas.eee.uci.edu/)
 
 [Student parking permit](https://parking.uci.edu/permits/student/)
 
+### Student Health portal
+
+[Health Portal](https://osh.chs.uci.edu/)
+
 ### Zot Portal
 
 [Zot! Portal](https://portal.uci.edu/)
