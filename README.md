@@ -50,7 +50,7 @@ ZOTFinder
 
 ### Canvas
 
-Link to [Canvas](https://canvas.eee.uci.edu/)
+Link to [Canvas](https://shib.service.uci.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2)
 
 ### Housing
 
