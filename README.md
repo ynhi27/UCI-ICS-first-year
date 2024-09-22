@@ -48,9 +48,10 @@ AtriumCampus
 CampusGroup  
 ZOTFinder
 
-### Canvas
+<1--### Canvas
 
 Link to [Canvas](https://shib.service.uci.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2)
+-->
 
 ### Housing
 
