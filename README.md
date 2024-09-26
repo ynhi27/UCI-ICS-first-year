@@ -41,8 +41,9 @@ Students' record: [WebReg](https://www.reg.uci.edu/)
 
 Follow the [link](https://eduroam.oit.uci.edu/)
 
-### Learning resources
+### Resources
 
+[Resource for student](https://students.uci.edu/)
 [Learn anywhere](https://sites.uci.edu/learnanywhere/)
 
 ### Apps
