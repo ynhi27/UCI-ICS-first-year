@@ -41,6 +41,10 @@ Students' record: [WebReg](https://www.reg.uci.edu/)
 
 Follow the [link](https://eduroam.oit.uci.edu/)
 
+### Learning resources
+
+[Learn anywhere](https://sites.uci.edu/learnanywhere/)
+
 ### Apps
 
 Duo Mobile  
