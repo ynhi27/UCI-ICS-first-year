@@ -25,7 +25,7 @@ Students' record: [WebReg](https://www.reg.uci.edu/)
 - Creating an [Academic plan ](https://ics.uci.edu/academics/undergraduate-academic-advising/creating-an-academic-plan/) instruction.
 - Some websites help to create your unique schedule based on the courses you register.
 1. [Zotistic.com](https://zotistics.com/)
-2. [Antalmanac.com](Antalmanac.com)
+2. [Antalmanac.com](https://antalmanac.com/)
 3. [Pathway](https://www.anteaterpathway.com/) --> quarters/years planning
 
 ### Financial Aid
