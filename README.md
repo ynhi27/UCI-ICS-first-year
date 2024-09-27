@@ -43,9 +43,9 @@ Follow the [link](https://eduroam.oit.uci.edu/)
 
 ### Resources
 
-[Campus Resources](https://due.uci.edu/campus-resources/)
-[Resource for student](https://students.uci.edu/)
-[Learn anywhere](https://sites.uci.edu/learnanywhere/)
+[Campus Resources](https://due.uci.edu/campus-resources/)  
+[Resource for student](https://students.uci.edu/)  
+[Learn anywhere](https://sites.uci.edu/learnanywhere/)  
 
 ### Apps
 
