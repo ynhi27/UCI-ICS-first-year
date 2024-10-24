@@ -1,6 +1,11 @@
 # UCI-ICS-first-year
 First year UCI-ICS-student needs to know
 
+### ZotPass (NEW 2024)
+
+Support for student: tutor, consultant, or coach
+[ZotPass](https://uci.tedu.app/student)
+
 ## Financial Aid Notice delay 2024
 
 [Notice](https://uci.edu/status/fin-aid.php)
@@ -77,6 +82,6 @@ Link to [Canvas](https://shib.service.uci.edu/idp/profile/SAML2/Redirect/SSO?exe
 
 ### Handshake at UCI
 
-[Handshake](https://career.uci.edu/handshake/)
+[Handshake](https://career.uci.edu/handshake/)  
 
 *Created by Y Nhi Tran - student at UCI - ICS - Year 2024-2026*
