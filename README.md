@@ -1,14 +1,13 @@
 # UCI-ICS-first-year
 First year UCI-ICS-student needs to know
 
-### ZotPass (NEW 2024)
+## ZotPass (NEW 2024)
 
-Support for student: tutor, consultant, or coach  
-[ZotPass](https://uci.tedu.app/student)
+Support for student: tutor, consultant, or coach: [ZotPass](https://uci.tedu.app/student)
 
-## Financial Aid Notice delay 2024
+### Mandatory Training
 
-[Notice](https://uci.edu/status/fin-aid.php)
+[Sexual Assault Prevention for Undergraduates](https://uci-ca.vectorlmsedu.com/training/home)
 
 ### Our school website
 
