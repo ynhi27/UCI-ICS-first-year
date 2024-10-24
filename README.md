@@ -3,7 +3,7 @@ First year UCI-ICS-student needs to know
 
 ### ZotPass (NEW 2024)
 
-Support for student: tutor, consultant, or coach
+Support for student: tutor, consultant, or coach  
 [ZotPass](https://uci.tedu.app/student)
 
 ## Financial Aid Notice delay 2024
