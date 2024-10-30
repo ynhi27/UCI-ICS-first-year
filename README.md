@@ -17,7 +17,7 @@ Support for student: tutor, consultant, or coach: [ZotPass](https://uci.tedu.app
 
 [(Click here to see the calendar under pdf file)](https://reg.uci.edu/calendars/quarterly/2024-2025/calendar24-25.pdf)
 
-### Admission apply
+### ~Admission apply~ doesn't work, still asking for more infor
 
 Review for those who want to look back the [Admission Decision](https://apply.admissions.uci.edu/portal/applicantstatus?tab=home)
 
