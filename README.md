@@ -32,6 +32,9 @@ Students' record: [WebReg](https://www.reg.uci.edu/)
 2. [Antalmanac.com](https://antalmanac.com/)
 3. [Pathway](https://www.anteaterpathway.com/) --> quarters/years planning
 
+### Prerequisite Clearing System
+[Clearing System](http://ugradforms.ics.uci.edu)
+
 ### Financial Aid
 
 1. View and manage your financial aid: [ZotAid](https://www.ofas.uci.edu/login.php)
