@@ -17,6 +17,10 @@ Support for student: tutor, consultant, or coach: [ZotPass](https://uci.tedu.app
 
 [(Click here to see the calendar under pdf file)](https://reg.uci.edu/calendars/quarterly/2024-2025/calendar24-25.pdf)
 
+### Creating an Academic Plan
+
+[Website to Plan](https://ics.uci.edu/academics/undergraduate-academic-advising/creating-an-academic-plan/)
+
 ### ~Admission apply~ doesn't work, still asking for more infor
 
 Review for those who want to look back the [Admission Decision](https://apply.admissions.uci.edu/portal/applicantstatus?tab=home)
