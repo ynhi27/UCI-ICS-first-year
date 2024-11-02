@@ -28,9 +28,10 @@ Students' record: [WebReg](https://www.reg.uci.edu/)
 ### Planner
 - Creating an [Academic plan ](https://ics.uci.edu/academics/undergraduate-academic-advising/creating-an-academic-plan/) instruction.
 - Some websites help to create your unique schedule based on the courses you register.
-1. [Zotistic.com](https://zotistics.com/)
-2. [Antalmanac.com](https://antalmanac.com/)
-3. [Pathway](https://www.anteaterpathway.com/) --> quarters/years planning
+1. [Peter Portal](https://peterportal.org/)
+2. [Zotistic.com](https://zotistics.com/)
+3. [Antalmanac.com](https://antalmanac.com/)
+4. [Pathway](https://www.anteaterpathway.com/) --> quarters/years planning
 
 ### Prerequisite Clearing System
 [Clearing System](http://ugradforms.ics.uci.edu)
