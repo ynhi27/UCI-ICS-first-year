@@ -35,6 +35,10 @@ Students' record: [WebReg](https://www.reg.uci.edu/)
 ### Prerequisite Clearing System
 [Clearing System](http://ugradforms.ics.uci.edu)
 
+### ICS Forms & Petitions
+
+[Link to the ICS page contains forms](https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/ics-forms-petitions/)
+
 ### Financial Aid
 
 1. View and manage your financial aid: [ZotAid](https://www.ofas.uci.edu/login.php)
