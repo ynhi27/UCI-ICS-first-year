@@ -95,4 +95,6 @@ Link to [Canvas](https://shib.service.uci.edu/idp/profile/SAML2/Redirect/SSO?exe
 
 [Handshake](https://career.uci.edu/handshake/)  
 
+### Microsoft 365
+[Free for students](https://www.oit.uci.edu/services/end-point-computing/microsoft-365/)  
 *Created by Y Nhi Tran - student at UCI - ICS - Year 2024-2026*
