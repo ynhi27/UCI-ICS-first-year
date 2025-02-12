@@ -19,7 +19,7 @@ Support for student: tutor, consultant, or coach: [ZotPass](https://uci.tedu.app
 
 ### Creating an Academic Plan
 
-[Website to Plan](https://ics.uci.edu/academics/undergraduate-academic-advising/creating-an-academic-plan/)
+[Website of ICS - Plan](https://ics.uci.edu/academics/undergraduate-academic-advising/creating-an-academic-plan/)
 
 ### ~Admission apply~ doesn't work, still asking for more infor
 
